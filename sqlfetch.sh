@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # To start MySQL server: sudo service mysqld start
 # To stop MySQL server: sudo service mysqld stop
